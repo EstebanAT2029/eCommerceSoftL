@@ -1,7 +1,7 @@
-# 🚀 Proyecto Final: [Nombre del Proyecto]
+# 🚀 Proyecto Final: [eEcommerceSOfL]
 
 ## 📌 Descripción  
-Este proyecto es una plataforma de [describe brevemente la funcionalidad del proyecto, por ejemplo: "eCommerce para la venta de licencias de software", "Sistema de reservas para hoteles", etc.].  
+Este proyecto es una plataforma de "eCommerce para la venta de licencias de software".].  
 Está desarrollado con **React/Next.js, Tailwind CSS, MySQL y APIs**, y cumple con los requerimientos de seguridad y buenas prácticas.  
 
 ## 👥 Integrantes  
@@ -19,6 +19,4 @@ Está desarrollado con **React/Next.js, Tailwind CSS, MySQL y APIs**, y cumple c
 - **Backend:** Node.js / Express / MySQL  
 - **Autenticación:** Firebase/Auth0  
 - **Estilos:** Tailwind CSS / Bootstrap  
-- **Despliegue:** Vercel / Netlify  
-
-## 📂 Estructura del Proyecto
+- **Despliegue:** Vercel / Netlify 
