@@ -10,5 +10,5 @@ Este proyecto es una plataforma de "eCommerce para la venta de licencias de soft
 - **Quispe Alanoca, Yomara Lizbeth**  
 
 ## 🔗 Enlaces del Proyecto  
-- **Repositorio en GitHub:** [Enlace aquí]https://github.com/EstebanAT2029/eCommerceSoftL.git  
+- **Repositorio en GitHub:** https://github.com/EstebanAT2029/eCommerceSoftL.git  
 - **Exposición:** [Enlace aquí](https://youtu.be/fpVcLryZ2Ic)  
